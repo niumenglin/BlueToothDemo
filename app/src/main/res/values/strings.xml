@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlueToothDemo</string>
+
+    <string name="main_title">蓝牙设置</string>
+    <string name="main_open_bluetooth">打开蓝牙</string>
+    <string name="main_close_bluetooth">关闭蓝牙</string>
+    <string name="main_no_support">该设备不支持蓝牙...</string>
+    <string name="main_bluetooth_opened">蓝牙已经处于打开状态...</string>
+    <string name="main_bluetooth_status_string">蓝牙的状态:%1$s</string>
+    <string name="main_bluetooth_status">蓝牙的状态:%1$b</string>
+    <string name="main_request_success">请求成功</string>
+    <string name="main_request_fail">请求失败</string>
+
+</resources>
