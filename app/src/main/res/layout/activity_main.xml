@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/col_eb"
+        android:gravity="center"
+        android:text="@string/main_title"
+        android:textColor="@color/col_3"
+        android:textSize="@dimen/font_size_18" />
+
+    <TextView
+        android:id="@+id/tv_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/main_bluetooth_status_string"/>
+
+    <Button
+        android:id="@+id/btn_open_bluetooth"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/main_open_bluetooth"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/font_size_16" />
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--字体大小 sp单位-->
+    <dimen name="font_size_11">11sp</dimen>
+    <dimen name="font_size_12">12sp</dimen>
+    <dimen name="font_size_13">13sp</dimen>
+    <dimen name="font_size_14">14sp</dimen>
+    <dimen name="font_size_15">15sp</dimen>
+    <dimen name="font_size_16">16sp</dimen>
+    <dimen name="font_size_17">17sp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+    <dimen name="font_size_19">19sp</dimen>
+    <dimen name="font_size_20">20sp</dimen>
+    <dimen name="font_size_21">21sp</dimen>
+
+    <!--控件大小  dp单位-->
+    <dimen name="view_size_40">40dp</dimen>
+    <dimen name="view_size_48">48dp</dimen>
+    <dimen name="view_size_50">50dp</dimen>
+
+    <!--控件间距  dp单位-->
+    <dimen name="margin_40">40dp</dimen>
+
+
+
+</resources>
